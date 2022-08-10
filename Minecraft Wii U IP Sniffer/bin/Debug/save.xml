@@ -1,29 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <savedInformations>
-  <player ip="76.103.106.87" country="US" postal="94534" region="California" city="Fairfield" latitude="38.2423" longitude="-122.1314" hostname="c-76-103-106-87.hsd1.ca.comcast.net" society="AS33651 Comcast Cable Communications, LLC"
-    >Klala1</player>
-  <player ip="86.217.156.42" country="FR" postal="16100" region="Nouvelle-Aquitaine" city="Boutiers-Saint-Trojan" latitude="45.7130" longitude="-0.2991" hostname="lfbn-poi-1-29-42.w86-217.abo.wanadoo.fr" society="AS3215 Orange S.A."
-    >June_Faked</player>
-  <player ip="95.39.234.18" country="ES" postal="39300" region="Cantabria" city="Torrelavega" latitude="43.3494" longitude="-4.0479" hostname="95.39.234.18.dyn.user.ono.com" society="AS6739 VODAFONE ONO, S.A."
-    >cass1718</player>
-  <player ip="47.55.85.135" country="CA" postal="E3G" region="New Brunswick" city="Fredericton" latitude="45.9454" longitude="-66.6656" hostname="fctnnbsc38w-47-55-85-135.dhcp-dynamic.fibreop.nb.bellaliant.net" society="AS855 Bell Canada"
-    >Adrian0814</player>
-  <player ip="201.127.43.192" country="MX" postal="32540" region="Chihuahua" city="Ciudad Juárez" latitude="31.6829" longitude="-106.3710" hostname="dsl-201-127-43-192-dyn.prod-infinitum.com.mx" society="AS8151 Uninet S.A. de C.V."
-    >collarin7</player>
-  <player ip="67.141.86.45" country="US" postal="68467" region="Nebraska" city="York" latitude="40.8681" longitude="-97.5920" hostname="h45.86.141.67.dynamic.ip.windstream.net" society="AS7029 Windstream Communications LLC"
-    >OscarSuances</player>
-  <player ip="81.51.97.121" country="FR" postal="51097 CEDEX" region="Grand Est" city="Reims" latitude="49.2653" longitude="4.0285" hostname="lfbn-rei-1-510-121.w81-51.abo.wanadoo.fr" society="AS3215 Orange S.A."
-    >ItzHatao</player>
-  <player ip="77.201.221.18" country="FR" postal="60000" region="Hauts-de-France" city="Beauvais" latitude="49.4333" longitude="2.0833" hostname="18.221.201.77.rev.sfr.net" society="AS15557 Societe Francaise Du Radiotelephone - SFR SA"
-    >cedkeraYTBZz</player>
-  <player ip="91.170.121.22" country="FR" postal="51800" region="Grand Est" city="Sainte-Menehould" latitude="49.0901" longitude="4.8973" hostname="91-170-121-22.subs.proxad.net" society="AS12322 Free SAS"
-    >loghys</player>
-  <player ip="88.126.235.147" country="FR" postal="17600" region="Nouvelle-Aquitaine" city="Médis" latitude="45.6430" longitude="-0.9652" hostname="p9u83-1_migr-88-126-235-147.fbx.proxad.net" society="AS12322 Free SAS"
-    >zepouille</player>
-  <player ip="95.120.56.102" country="ES" postal="36600" region="Galicia" city="Vilagarcía de Arousa" latitude="42.5963" longitude="-8.7643" hostname="102.red-95-120-56.dynamicip.rima-tde.net" society="AS3352 TELEFONICA DE ESPANA S.A.U."
-    >BenJunior51</player>
-  <player ip="106.168.13.249" country="JP" postal="246-0011" region="Kanagawa" city="Yokohama" latitude="35.4767" longitude="139.4984" hostname="kd106168013249.ppp-bb.dion.ne.jp" society="AS2516 KDDI CORPORATION"
-    >anakagua</player>
-  <player ip="88.121.228.171" country="FR" postal="87076 CEDEX 9" region="Nouvelle-Aquitaine" city="Limoges" latitude="45.8336" longitude="1.2476" hostname="con87-1_migr-88-121-228-171.fbx.proxad.net" society="AS12322 Free SAS"
-    >Player 7</player>
+  
 </savedInformations>
