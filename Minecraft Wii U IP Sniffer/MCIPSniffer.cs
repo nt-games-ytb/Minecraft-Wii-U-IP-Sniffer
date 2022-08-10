@@ -3375,6 +3375,7 @@ namespace Minecraft_Wii_U_IP_Sniffer
             #endregion
         }
 
+        #region Save
         private void savePlayersIpInformations_Click(object sender, EventArgs e)
         {
             save();
@@ -3508,7 +3509,9 @@ namespace Minecraft_Wii_U_IP_Sniffer
             streamWriterIP.Write(xmlCode);
             streamWriterIP.Close();
         }
+        #endregion
 
+        #region Xml
         private void loadXml()
         {
             try
@@ -3547,6 +3550,7 @@ namespace Minecraft_Wii_U_IP_Sniffer
         {
             Process.Start("save.xml");
         }
+        #endregion
 
         #region Credits
         private void labelNtGames_Click(object sender, EventArgs e)

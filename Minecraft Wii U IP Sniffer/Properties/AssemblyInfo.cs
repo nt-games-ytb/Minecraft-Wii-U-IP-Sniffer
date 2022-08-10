@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("Minecraft Wii U IP Sniffer")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyDescription("A software, a RTM Tool for sniff players IP in Minecraft Wii U and have other informations.   ")]
+[assembly: AssemblyConfiguration("Minecraft Wii U IP Sniffer")]
+[assembly: AssemblyCompany("nt games Company, Inc.")]
 [assembly: AssemblyProduct("Minecraft Wii U IP Sniffer")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©  2022 by nt games")]
+[assembly: AssemblyTrademark("Minecraft Wii U IP Sniffer")]
 [assembly: AssemblyCulture("")]
 
 // L'affectation de la valeur false à ComVisible rend les types invisibles dans cet assembly
