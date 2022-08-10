@@ -1,0 +1,11 @@
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\bin\Debug\Minecraft Wii U IP Sniffer.exe.config
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\bin\Debug\Minecraft Wii U IP Sniffer.exe
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\bin\Debug\Minecraft Wii U IP Sniffer.pdb
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft Wii U IP Sniffer.csproj.AssemblyReference.cache
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft Wii U IP Sniffer.csproj.SuggestedBindingRedirects.cache
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft_Wii_U_IP_Sniffer.MCIPSniffer.resources
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft_Wii_U_IP_Sniffer.Properties.Resources.resources
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft Wii U IP Sniffer.csproj.GenerateResource.cache
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft Wii U IP Sniffer.csproj.CoreCompileInputs.cache
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft Wii U IP Sniffer.exe
+C:\Users\toron\source\repos\Minecraft Wii U IP Sniffer\Minecraft Wii U IP Sniffer\obj\Debug\Minecraft Wii U IP Sniffer.pdb
