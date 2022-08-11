@@ -1,5 +1,5 @@
 # What is this ?
-This is the code of Minecraft Wii U IP Sniffer, a software, a RTM Tool for sniff players IP in Minecraft Wii U and have other informations.    
+This is the code of Minecraft Wii U IP Sniffer, a software, a RTM tool for sniff players IP in Minecraft Wii U and have other informations.    
 As this software is very powerful (with an IP you can do a lot of things and I'm afraid it will destroy the Minecraft Wii U community), I put a password for the code of the main form and for the software.    
 I hope you will understand my choice...    
 This is a beta so it contains many bugs, names sometimes have placement problems but IP addresses are normally well placed.    
