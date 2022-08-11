@@ -13,4 +13,4 @@ You can compile this with [Microsoft Visual Studio](https://visualstudio.microso
 **nt games** for making the software.    
 **Wii Plaza** for making [GeckoU](https://github.com/XxModZxXWiiPlaza/GeckoU).    
 **Alts001** for making the players informations (name and coordinates) code.   
-**Katope** for making the IP address sniffer code.    
+**Katope** for making the IP address sniffer code.     
