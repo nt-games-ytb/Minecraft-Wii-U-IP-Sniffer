@@ -343,7 +343,7 @@ namespace Minecraft_Wii_U_IP_Sniffer
             string code3 = "9421FFF87C0802A63D200316612968187C0802A67D2903A69001000C4E800421812300342C09000041820024814900F83D20103061293030814A0154816A0004814A000091690004914900008001000C3D20010F61296AE0382100087D2903A67C0803A64E80002060000000";
             GeckoU.makeAssembly(0x03917468, code3);
             GeckoU.CallFunction(0x03917468, new uint[] { 0x0 });
-            //get seed
+            //get ip address
             string code4 = "3D2010973D0010A96129923861080E6C8149000080E80000554A083C810A000080E7028839080001910A000081490000554A083C814A00002C0A000140A200803D0010513CC072796108A7B060C65B9A808800003D00108690C7102C61085B6090871028394710283CA010863CC010878088000060A55B8460C614283CE01087908A000860E72CBC3D00108780A50000610830B490AA000C80C6000090CA001080E7000090EA001481080000910A0018812900005529083C814900002C0A0002418200903D2010563D4010C06129B7B83C6010C081290000606300043C8010C03CA010C03D29D22D6084000881090C1F60A5000C3CC010C03CE010C0910A00003D40010F614A6AE060C6001081690C2F7D4903A660E700143D0010C0916300006108001881490C3F9144000081490C4F9145000081490C5F9146000081490C6F9147000081290C7F912800004e8000203D2010A961290E6C8129000081290288814910002C0A000040A2FF5C39400001914910004BFFFF50";
             GeckoU.makeAssembly(0x039182D0, code4);
             GeckoU.CallFunction(0x039182D0, new uint[] { 0x0 });
@@ -1660,8 +1660,6 @@ namespace Minecraft_Wii_U_IP_Sniffer
             #endregion
 
             #region Warning
-            //Old message :
-            //MessageBox.Show("As this software is a beta, it contains many problems.\r\nWe have tried to optimize the results for the information as best we can, but information may not be attributed to the correct player.\r\nTo be sure that these are the correct players, they must be in the same order in the map and on the software.\r\nTo have better results, you can disconnect and reconnect on the map.", "Minecraft Wii U IP Sniffer", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             MessageBox.Show("As this software is a beta, it contains many problems.\r\nWe have tried to optimize the results for the information as best we can, but information may not be attributed to the correct player.\r\nThe information may not be in order for all players (except you).\r\nTo have better results, you can disconnect and reconnect on the map.", "Minecraft Wii U IP Sniffer", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             #endregion
 
